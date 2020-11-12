@@ -1,1 +1,1 @@
-# tasks-7.7-homework
+goit-js-hw-11-promisification
